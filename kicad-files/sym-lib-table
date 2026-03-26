@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/andrii/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "extrimism_lib")(type "KiCad")(uri "${KIPRJMOD}/extrimism_lib.kicad_sym")(options "")(descr ""))
+)
