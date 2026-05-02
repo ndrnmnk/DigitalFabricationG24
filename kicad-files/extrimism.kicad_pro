@@ -54,104 +54,12 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "silk_over_copper|107154317|102466726|2645b9e4-a00c-455e-92e2-1e80ba42c9fd|00000000-0000-0000-0000-000000000000",
-          "Still mostly visible"
+          "unconnected_items|100500000|114750000|F.Cu|4|ea1d5cf5-a9a1-45af-bc63-1bede8ad0270|5c7b525b-7830-4532-be60-6be6f8f308f9",
+          ""
         ],
         [
-          "unconnected_items|106250909|119474000|F.Cu|4|b0828942-8b7b-4b13-85b9-42db744410a6|3d4ce18c-1212-4653-8ab2-b9383334abba",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|106252273|101976000|F.Cu|4|594d5580-5e79-44de-9947-9e8ff07991e7|82e60a8e-9ade-482e-844f-23d2ac7edbc0",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|110750909|119474000|F.Cu|4|1b07b2de-a481-4cd8-aa7c-95e7a4e7a7b0|a9bc5532-87fd-4a9e-96cd-d63be4c139bb",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|110752273|101976000|F.Cu|4|c8b7aed6-8319-45f4-b9a3-d163f60f318a|f5320114-22b1-47bd-9c22-573420660be1",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|46023636|119474000|F.Cu|4|66c73337-9a77-4899-a981-bb5645ebf432|00a055ed-662d-47ae-8af0-35d09a35c011",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|46025000|101976000|F.Cu|4|fefc1b1c-1f19-4867-9a1a-4357e0364b00|fbb9b975-3dda-4eb3-b040-fb549984e6cc",
-          "connected later with another pin"
-        ],
-        [
-          "unconnected_items|50523636|119474000|F.Cu|4|2b6c0e37-74a3-49a5-83dd-2fbe4cd8eb2a|8645a744-08cc-4fdd-9acd-e162a5d74245",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|50525000|101976000|F.Cu|4|5fef62b4-0eb8-4aa7-8cb5-52404b2e91d3|995c850f-d4b3-490a-8276-5144f6c80b83",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|58069091|119474000|F.Cu|4|774085ca-c403-4b3b-b924-322cebe4b52f|22041cc9-1994-4778-92e2-bee26653f2cd",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|58070455|101976000|F.Cu|4|a5c8bc64-9d7c-42f3-8805-4c0ea22d919e|d07148e4-cc77-4df4-90ea-c8f6da074f4b",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|62569091|119474000|F.Cu|4|b4bb6396-0511-499b-9974-6bcc4a0816f2|c427a346-8b05-4f01-abdd-4c7d8df57821",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|62570455|101976000|F.Cu|4|aed9dd21-e29a-44f3-b1da-a68a02d4ed55|bfea35d1-eaeb-4705-8446-522e76362bb2",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|70114545|119474000|F.Cu|4|15731d38-222a-4424-bd69-fe667e294459|da865708-5cd9-4df1-9877-17f0368fd126",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|70115909|108476000|F.Cu|4|1799ca07-d853-4238-ac2a-b11bb3f60115|265f33bb-88f2-4b30-870b-2364d15b2338",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|74614545|112974000|F.Cu|4|e5605562-5616-4d8c-a67e-c031376a99e0|df29401f-0d86-44bc-b119-1158ed863ff4",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|74615909|101976000|F.Cu|4|95de7b2d-70d3-4217-92ec-0237e82c1d54|22cb16c3-3db8-4011-85d2-23ee4e738451",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|82160000|119474000|F.Cu|4|9a34736a-cd80-4343-8bd0-8395dc5fadb0|cb9dddb7-db79-4d4f-b6dd-e342f6677a88",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|82161364|108476000|F.Cu|4|de24d79f-388c-4bf5-8aaf-bf2169c7bed1|815b27c0-e871-41f5-b4fc-89dc2a8c47fd",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|86660000|119474000|F.Cu|4|ec2309c2-2ba3-4f5c-b725-f07753df4719|6ac442b7-b134-4651-9465-6b0fffa44427",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|86661364|101976000|F.Cu|4|16634802-6877-4724-b23c-a42d700c2ab7|935f7397-338a-4549-9fd3-2a501f5bd542",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|94205454|119474000|F.Cu|4|65b81341-e7a9-45a7-86e3-c11e6b42d03e|ebe2a1f4-2a7b-4232-95f7-5b1ea39a0c07",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|94206818|108476000|F.Cu|4|90b842f2-d096-4160-a116-cdf313e5fd86|87a7b2e4-92f4-4175-b677-ccd112ec34c5",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|98705454|119474000|F.Cu|4|a44ef5e1-268f-46c7-9423-b439a35d940b|0f5e8d20-fd8c-4dc2-a712-0575d5c73ada",
-          "connected internally"
-        ],
-        [
-          "unconnected_items|98706818|101976000|F.Cu|4|be9a7cb2-563d-4c30-9c27-adafdbdbdd47|c0976324-9e4a-46bb-b672-fbf23ff21c4f",
-          "connected internally"
+          "unconnected_items|49500000|114750000|F.Cu|4|54d8a5f1-4cd8-4e87-86eb-51bc5ad2a632|6fb73fcf-cad6-41e2-9511-f6ab6d1448cc",
+          ""
         ]
       ],
       "meta": {
@@ -222,7 +130,7 @@
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.1,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -231,9 +139,9 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
+        "min_track_width": 0.5,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 1.0,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -593,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/andrii/Desktop/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
